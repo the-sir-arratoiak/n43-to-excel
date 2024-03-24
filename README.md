@@ -38,6 +38,7 @@ This software is distributed under the [MIT License](LICENSE).
 ### Contributions:
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
+Also thank you to Ideatic for the N43 library: https://github.com/ideatic/banks
 
 ### Disclaimer:
 
