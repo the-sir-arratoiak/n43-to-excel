@@ -1,4 +1,4 @@
-**N43-to-Excel**
+**N43 to Excel**
 
 This software is a PHP-based parser designed to convert Norma 43 (N43) files to Excel format. It simplifies the process of converting financial data from N43 files into a more accessible Excel format, aiding in data analysis and manipulation.
 
